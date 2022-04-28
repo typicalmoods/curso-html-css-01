@@ -1,0 +1,30 @@
+h1.header {
+    font-style: italic;
+    color: brown;
+}
+
+h2{
+    color:brown;
+}
+
+p.p-class{
+    color: brown;
+}
+
+mark{
+    background-color:brown;
+}
+.rosa{
+    color: deeppink;
+}
+.fondo{
+    background-color:  #e6b3cc;
+}
+.lila{
+    background-color: #827397;
+}
+.verde{
+    background-color: #B4E197;
+    margin-right: 50%;
+    padding: 5%;
+}
